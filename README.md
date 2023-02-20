@@ -16,7 +16,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 
-This is my qr-code component design. I did the best I could. For some reason tho, the DIV just wont center even after using CSS display flexbox.
+This is my qr-code component design. Used display flex to center the content but still cant get my way around media queries.
 
 ### Links
 
@@ -35,11 +35,11 @@ This is my qr-code component design. I did the best I could. For some reason tho
 
 ### What I learned
 
-I learned quite a lot with this challenge. I learned the use of flexbox but for some reason the div just wasnt getting centered.
+I learned quite a lot with this challenge. I still have alot to learn in regards to media queries.
 
 ### Continued development
 
-I would like to focus more on how to manipulate divs using flexbox and other css display properties.
+I want to learn more about how media queries and responsive designs work.
 
 ## Author
 
