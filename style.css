@@ -1,0 +1,65 @@
+body {
+  font-family: Outfit, sans-serif;
+  background-color: hsl(212, 45%, 89%);
+  height: 100%;
+  /* padding-top: 100px; */
+}
+
+.attribution { 
+  font-size: 11px; text-align: center; 
+}
+
+.attribution a { 
+  color: hsl(228, 45%, 44%); 
+}
+
+/* This is the qr-code component styles */
+.container {
+  height: 100%;
+  width: 250px;
+  border-radius: 14px;
+  background-color: hsl(0, 0%, 100%);
+  padding: 15px 15px 40px 15px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.qr-code-container {
+  width: 250px;
+}
+
+.image-qr-code {
+  border-radius: 12px;
+  margin-bottom: 5px;
+  width: 100%;
+}
+
+.description {
+  width: 250px;
+  padding: 0 4px;
+}
+
+p {
+  margin: 0;
+  text-align: center;
+  padding: 0;
+  width: 100%;
+}
+
+.p-1 {
+  font-weight: 700;
+  font-size: 20px;
+  margin-top: 15px;
+}
+
+.p-2 {
+  color: hsl(220, 15%, 55%);
+  font-size: 15px;
+  margin-top: 19px;
+  font-weight: 400;
+}
+
+@media screen and (min-width: 375px) and (max-width: 1440px) {
+
+}
