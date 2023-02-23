@@ -30,7 +30,6 @@ This is my qr-code component design. Used display flex to center the content but
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
 
 ### What I learned
